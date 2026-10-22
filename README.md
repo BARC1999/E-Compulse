@@ -136,7 +136,7 @@ choco install terraform kubernetes-cli kubernetes-helm awscli docker-desktop git
 ##### 1.1 Clone Repository and Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yassnemo/E-ComPulse-insights-platform.git
+git clone https://github.com/BARC1999/E-ComPulse-insights-platform.git
 cd E-ComPulse-insights-platform
 
 # Verify directory structure
